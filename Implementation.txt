@@ -1,0 +1,1 @@
+During the implementation phase, the software is deployed with the development teams to set up the environment, migrate data, configure the system, and provide user training and documentation for a smooth transition.
