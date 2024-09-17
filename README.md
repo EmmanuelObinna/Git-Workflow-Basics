@@ -2,7 +2,7 @@
 
 Donald May
 
-A struggle that I had was trying to figure out how to push and pull data. Also using VSCode for this was a little confusing at first but I eventually got it down.
+A struggle that I had was trying to figure out how to push and pull data. Also using VSCode for this was a little confusing at first but I eventually got it down. I began to work with my group members, along with my fellow classmates, to ask questions when I was confused and/or stuck on something.
 
 Joe Mpoyo
 
