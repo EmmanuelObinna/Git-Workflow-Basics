@@ -1,0 +1,5 @@
+Testing and quality assurance
+
+Joe Mpoyo
+
+This is fourth stage of the SDLC process. This process is to ensure software reliability, performance, and security, rigorous testing and quality assurance processes are conducted using techniques such as unit, integration, system, and user acceptance testing. These QA activities validate the software against predefined requirements to identify and fix issues, ensuring it operates as intended
